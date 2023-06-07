@@ -1,4 +1,4 @@
-This is C++ code for 'Dictionary AVL' assignment of Advance Data Structures (SPPU SE SEM4) - CS of Savitribai Phule Pune University - Gyaani Buddy
+
 
 #include<iostream>
 #include<cstring>
