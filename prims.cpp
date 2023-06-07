@@ -1,6 +1,4 @@
 /*
-Author: Parag Ghorpade
-
 PROBLEM STATEMENT:
 	You have a business with several offices; you want to lease phone lines to connect them up
 	with each other; and the phone company charges different amounts of money to connect
