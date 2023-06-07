@@ -37,7 +37,7 @@ void  enqueue(string n,int p)
         {
             for(i=f;i<r;i++)
             {
-                name[i-1]=name[i];
+                name[i-f]=name[i];
                 priority[i-f]=priority[i];
                 r=r-f;
                 f=0;
